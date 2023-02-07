@@ -1,0 +1,17 @@
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Skoropechatanie.exe
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Skoropechatanie.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Skoropechatanie.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Skoropechatanie.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Skoropechatanie.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.csproj.CopyComplete
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\refint\Skoropechatanie.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\Skoropechatanie.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Skoropechatanie\Skoropechatanie\obj\Debug\net6.0\ref\Skoropechatanie.dll
